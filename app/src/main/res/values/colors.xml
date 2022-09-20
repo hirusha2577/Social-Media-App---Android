@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#C41A1A</color>
+    <color name="colorPrimaryDark">#7E0505</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="black">#0A0A0A</color>
+    <color name="silver">#310A0A0A</color>
+    <color name="sudu">#FFFEFE</color>
+    <color name="kola">#18D64E</color>
+    <color name="alu">#A4ACA4</color>
+</resources>

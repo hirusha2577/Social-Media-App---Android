@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VTAfamily</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about">about</string>
+    <string name="gallery">gallery</string>
+    <string name="hirusha">Hirusha</string>
+    <string name="_111">111</string>
+    <string name="hirusha25577">hirusha25577</string>
+</resources>
